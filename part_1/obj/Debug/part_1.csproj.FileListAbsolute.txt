@@ -1,0 +1,7 @@
+C:\Users\Noam Shira\Desktop\'סמסטר א\C#\dotName5780_01_8997_5923\part_1\bin\Debug\part_1.exe.config
+C:\Users\Noam Shira\Desktop\'סמסטר א\C#\dotName5780_01_8997_5923\part_1\bin\Debug\part_1.exe
+C:\Users\Noam Shira\Desktop\'סמסטר א\C#\dotName5780_01_8997_5923\part_1\bin\Debug\part_1.pdb
+C:\Users\Noam Shira\Desktop\'סמסטר א\C#\dotName5780_01_8997_5923\part_1\obj\Debug\part_1.csprojAssemblyReference.cache
+C:\Users\Noam Shira\Desktop\'סמסטר א\C#\dotName5780_01_8997_5923\part_1\obj\Debug\part_1.csproj.CoreCompileInputs.cache
+C:\Users\Noam Shira\Desktop\'סמסטר א\C#\dotName5780_01_8997_5923\part_1\obj\Debug\part_1.exe
+C:\Users\Noam Shira\Desktop\'סמסטר א\C#\dotName5780_01_8997_5923\part_1\obj\Debug\part_1.pdb
